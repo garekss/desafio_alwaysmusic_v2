@@ -1,4 +1,3 @@
-
 ##### Desarrollo desafio Always Music Versión 2
 
 ###### 1. Hacer Todas Las Consultas Con Un Objeto Como Argumento Del MéTodo Query.
@@ -55,8 +54,3 @@ Alumno con rut 12345678-6 eliminado con éxito
 Alumno Eliminado:  { rut: '12345678-6', nombre: 'Ignacio Dubo', curso: 'G70', nivel: 6 }
 
 **Agradecimientos a Bianca Salcedo** :tw-1f64c:
-node server.js eliminar 12345678-6 
-
-***** Academy Always Music *****
-Alumno con rut 12345678-6 eliminado con éxito
-Alumno Eliminado:  { rut: '12345678-6', nombre: 'Ignacio Dubo', curso: 'G70', nivel: 6 }
